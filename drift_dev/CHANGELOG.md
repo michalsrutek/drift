@@ -1,3 +1,12 @@
+## 1.5.2
+
+- Fix crash when reading dynamic type converters.
+
+## 1.5.1
+
+- Support migrations from `moor_flutter` to `drift_sqflite` in the `migrate`
+  command.
+
 ## 1.5.0
 
 - Add `validateDatabaseSchema` extension to `api/migrations.dart`. It validates
